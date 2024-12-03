@@ -6,7 +6,7 @@
 // print "Hello World";
 // print_r("Hello world");
 // var_dump("Hello world");
-// echo "hello world";
+echo "hello world";
 
 // Variable and type data
 // Contoh
